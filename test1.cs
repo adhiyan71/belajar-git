@@ -38,15 +38,4 @@ namespace demo.Models
         public string catchPhrase { get; set; }
         public string bs { get; set; }
     }
-
-    public class displayinfo
-    {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string username { get; set; }
-        public string email { get; set; }
-        public string phone { get; set; }
-        public string website { get; set; }
-        public string address_street { get; set; }
-    }
 }
