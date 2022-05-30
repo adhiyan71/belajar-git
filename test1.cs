@@ -28,8 +28,8 @@ namespace demo.Models
 
     public class coradress
     {
-        public string lat { get; set; }
-        public string lng { get; set; }
+        public string int { get; set; }
+        public string int { get; set; }
     }
 
     public class detailcompany
