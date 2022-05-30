@@ -23,13 +23,7 @@ namespace demo.Models
         public string suite { get; set; }
         public string city { get; set; }
         public string zipcode { get; set; }
-        public coradress geo { get; set; }
-    }
-
-    public class coradress
-    {
-        public string lat { get; set; }
-        public string lng { get; set; }
+        // public coradress geo { get; set; }
     }
 
     public class detailcompany
